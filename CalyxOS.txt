@@ -1,0 +1,14 @@
+21-04-2024
+- Fixed Custom clocks
+- Import apns-conf.xml from V14.0.7.0.TKFMIXMC (for fix mobile internet)
+- Reverted "Added CalyxOS maintainer to Device Info page"
+- Reverted "Removed Chromium and Sound recorder"
+==========================================================
+20-04-2024
+- Shipped With Custom Clocks
+- Added CalyxOS maintainer to Device Info page
+- Removed Chromium and Sound recorder
+==========================================================
+19-04-2024
+- Initial Calyx OS build for Redmi Note 10 (sunny/mojito)
+

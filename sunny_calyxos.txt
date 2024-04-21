@@ -1,2 +1,0 @@
-19-04-2024
-- Initial Build Calyx OS build for Redmi Note 10 (sunny/mojito)
